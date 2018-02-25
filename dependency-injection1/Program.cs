@@ -27,7 +27,9 @@ namespace dependency_injection1
         }
     }
 
-
+    /// <summary>
+    /// 
+    /// </summary>
     public class ApplicationClass
     {
         private ITestClass _testClass;
